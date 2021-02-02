@@ -1,0 +1,41 @@
+body{
+    font-family: georgia; 
+}
+.gora{
+    text-align: center;
+    width: 50%;
+    height:180px;
+    background-color:rgb(197,85,160);
+    float: left;
+}
+.baner, .stopka{
+    background-color: rgb(246,226,2220);
+    text-align: center;
+    height: 100px;
+    padding: 10px;
+    clear: both;
+    
+}
+.glowny{
+    background-color: rgb(197,85,160);
+    color: white;
+    width: 50%;
+    height:400px;
+    float: left;
+}
+.odnosnik{
+    background: url("cukierki1.png");
+    padding-right:70px;
+    padding-bottom: 120px;
+    font-size: 150%;
+    text-decoration: none;
+}
+table, td{
+    border:2px solid blue;
+    margin: 20px;
+    padding: 10px;
+}
+h2{
+    letter-spacing: 10px;
+    font-size: 200%;
+}
